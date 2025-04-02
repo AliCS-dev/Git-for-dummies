@@ -9,7 +9,7 @@ plt.axis([0, 10, 0, 10])# x - axis range is form zero to six
 plt.xlabel('X-axis')
 plt.ylabel('Y-axis')
 
-plt.title('simple')
+plt.title('Complex')
 
 
 
